@@ -38,7 +38,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=dark&layout=compact" width="410" /></p>
 
 ------
-Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 
-Last Edited on: 21/09/2021
 
